@@ -20,6 +20,9 @@ const Hero = (props) => (
      <br/>
      <br/>
      <br/>
+     <br/>
+     <br/>
+     <br/>
    </LeftSection>
  </Section>
 );
