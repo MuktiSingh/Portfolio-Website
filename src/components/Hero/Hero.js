@@ -15,8 +15,8 @@ const Hero = (props) => (
      <SectionText>
       Responsible and highly adaptable individual with a knack for coding and problem solving.
      </SectionText>
-     <a /*href='mukti_resume.pdf' download="Mukti's_resume.pdf"*/>
-     <Button href="">Contact </Button></a>
+     <a /*href='mukti_resume.pdf' download="Mukti's_resume.pdf"*/></a>
+     {/* <Button href="">Contact </Button></a> */}
      <br/>
      <br/>
      <br/>
