@@ -34,7 +34,7 @@ export default class MyDocument extends Document {
           <title>Mukti Singh</title>
           <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
         </Head>
-        <body>
+        <body className='section'>
           <Main />
           <NextScript />
         </body>

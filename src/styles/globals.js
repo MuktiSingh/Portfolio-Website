@@ -14,6 +14,24 @@ const GlobalStyles = createGlobalStyle`
     scroll-behavior: smooth;
 
   }
+
+  
+.section::-webkit-scrollbar {
+  width: 8px;
+}
+
+.section::-webkit-scrollbar-track {
+  background-color: #e4e4e4;
+}
+
+.section::-webkit-scrollbar-thumb {
+  border: 6px solid rgba(0, 0, 0, 0.18);
+  border-left: 0;
+  border-right: 0;
+  background-color: #8070d4;
+}
+
+
   body {
     font-family: ${props => props.theme.fonts.main};
     font-size: 1.6rem;
