@@ -8,7 +8,7 @@ const Acomplishments = () => (
     <SectionTitle>Education</SectionTitle>
     <Box>
       <h1>Jaypee Institute of Information Technology</h1>
-      <h2>Bachelor of Technology (B. Tech) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; August 2019 - May 2023</h2><br/>
+      <h2>Bachelor of Technology (B. Tech) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Aug 2019 - May 2023</h2><br/>
       <h2>Information Technology (IT)</h2><br/>
       <h2><b>CGPA: 6.6/10.00</b></h2>
     </Box>
