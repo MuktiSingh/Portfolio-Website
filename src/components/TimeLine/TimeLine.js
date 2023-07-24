@@ -47,11 +47,11 @@ const Timeline = () => {
         <SectionTitle>About Me</SectionTitle>
         <SectionText>
         I am a B.Tech graduate in Information Technology with a keen interest in software development, particularly in the area of Data Structures and Algorithms (DSA). As a software development enthusiast, I am passionate about creating efficient and scalable solutions to complex problems.
-
+<br>
 Throughout my academic career, I have gained a solid foundation in C++ programming language, as well as experience with web development technologies such as HTML, CSS, and JavaScript. I have also had the opportunity to work on various software development projects, both individually and in teams, which have helped me develop my problem-solving and collaboration skills.
-
+<br>
 My ultimate goal is to become a software engineer and make a meaningful impact in the tech industry. I am always eager to learn and explore new technologies, and I am constantly seeking opportunities to enhance my skills and knowledge.
-
+<br></br>
 If you share my passion for software development and DSA, or if you are looking for a motivated and dedicated team member, please feel free to connect with me. I am excited to explore potential collaborations and opportunities with you.
         </SectionText>
     </Section>
