@@ -13,7 +13,7 @@ const Hero = (props) => (
         I'm Mukti Singh
      </SectionTitle>
      <SectionText>
-      Responsible and highly adaptable individual with a knack for coding and problem solving.
+      {/* Responsible and highly adaptable individual with a knack for coding and problem solving. */}
      </SectionText>
      <a /*href='mukti_resume.pdf' download="Mukti's_resume.pdf"*/></a>
      {/* <Button href="">Contact </Button></a> */}
