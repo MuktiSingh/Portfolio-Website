@@ -52,7 +52,7 @@ Throughout my academic career, I have gained a solid foundation in C++ programmi
 <br />
 My ultimate goal is to become a software engineer and make a meaningful impact in the tech industry. I am always eager to learn and explore new technologies, and I am constantly seeking opportunities to enhance my skills and knowledge.
 <br />
-If you share my passion for software development and DSA, or if you are looking for a motivated and dedicated team member, please feel free to connect with me. I am excited to explore potential collaborations and opportunities with you.
+If you are looking for a motivated and dedicated team member, please feel free to connect with me. I am excited to explore potential collaborations and opportunities with you.
         </SectionText>
     </Section>
   );
