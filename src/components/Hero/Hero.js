@@ -8,6 +8,8 @@ const Hero = (props) => (
  <Section row nopadding>
    <LeftSection>
      <SectionTitle main center>
+     <br/>
+     <br/>
        <br/>
         Hello 👋. < br />
         I'm Mukti Singh
@@ -18,9 +20,6 @@ const Hero = (props) => (
      <a /*href='mukti_resume.pdf' download="Mukti's_resume.pdf"*/></a>
      {/* <Button href="">Contact </Button></a> */}
      <br/>
-     <br/>
-     <br/>
-
      <br/>
      <br/>
      <br/>
